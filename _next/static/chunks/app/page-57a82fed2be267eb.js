@@ -4587,7 +4587,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://www.dextools.io/",
+                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x79754119d4cf813bc455120c68339502690afa91?t=1739990562999",
                               target: "_blank",
                               className:
                                 "flex items-center justify-center transition-all hover:scale-105",
@@ -4705,7 +4705,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://www.dextools.io/",
+                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x79754119d4cf813bc455120c68339502690afa91?t=1739990562999",
                               target: "_blank",
                               className:
                                 "flex items-center justify-center transition-all hover:scale-105",
