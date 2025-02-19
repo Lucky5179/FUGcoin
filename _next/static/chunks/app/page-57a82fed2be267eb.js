@@ -2413,7 +2413,7 @@
               try {
                 let e = (
                   await f.Z.get(
-                    "https://api.dexscreener.com/latest/dex/tokens/0xcomingsoon"
+                    "https://api.dexscreener.com/latest/dex/tokens/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105"
                   )
                 ).data;
                 t(e.pairs[0].priceUsd),
@@ -2790,21 +2790,21 @@
                       className: "flex items-center space-x-6",
                       children: [
                         (0, a.jsx)("a", {
-                          href: "https://x.com/fugcoinoneth",
+                          href: "https://x.com/fugcoin_erc20",
                           target: "_blank",
                           className:
                             "text-lg text-VT323 text-white bg-[#171717] hover:text-black hover:bg-[#459CD6] py-1 px-4",
                           children: "TWITTER",
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://t.me/fugcoin_portal",
+                          href: "https://t.me/fugcoin_erc20",
                           target: "_blank",
                           className:
                             "text-lg text-VT323 text-white bg-[#171717] hover:text-black hover:bg-[#459CD6] py-1 px-4",
                           children: "TELEGRAM",
                         }),
                         (0, a.jsx)("a", {
-                          href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                          href: "https://dexscreener.com/ethereum/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                           target: "_blank",
                           className:
                             "text-lg text-VT323 text-white bg-[#171717] hover:text-black hover:bg-[#459CD6] py-1 px-4",
@@ -2862,21 +2862,21 @@
                           className: "flex flex-col items-center space-y-4 ",
                           children: [
                             (0, a.jsx)("a", {
-                              href: "https://x.com/fugcoinoneth",
+                              href: "https://x.com/fugcoin_erc20",
                               target: "_blank",
                               className:
                                 "text-xl text-VT323 text-white bg-[#171717] hover:text-black hover:bg-[#459CD6] py-2 px-6 w-full text-center",
                               children: "TWITTER",
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://t.me/fugcoin_portal",
+                              href: "https://t.me/fugcoin_erc20",
                               target: "_blank",
                               className:
                                 "text-xl text-VT323 text-white bg-[#171717] hover:text-black hover:bg-[#459CD6] py-2 px-6 w-full text-center",
                               children: "TELEGRAM",
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              href: "https://dexscreener.com/ethereum/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                               target: "_blank",
                               className:
                                 "text-xl text-VT323 text-white bg-[#171717] hover:text-black hover:bg-[#459CD6] py-2 px-6 w-full text-center",
@@ -4515,7 +4515,7 @@
                               bodyClassName: "".concat(o().customToast),
                               progressClassName: "".concat(o().customToast),
                             }),
-                          text: "0xcomingsoon",
+                          text: "0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                           children: (0, a.jsxs)("button", {
                             className: "".concat(
                               o().boxGradientBorder,
@@ -4530,7 +4530,7 @@
                                     className: "hidden  text-white md:inline ",
                                     children: "CA:",
                                   }),
-                                  "\xa00xcomingsoon",
+                                  "\xa00x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                                 ],
                               }),
                               (0, a.jsx)(r.C3L, {
@@ -4542,7 +4542,7 @@
                                 children: "100,000,000 (100 MN)",
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://etherscan.io/token/0xcomingsoon",
+                                href: "https://etherscan.io/token/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                                 target: "blank",
                                 children: (0, a.jsxs)("span", {
                                   className: "".concat(
@@ -4574,7 +4574,7 @@
                           className: "grid grid-cols-4 gap-4 p-1",
                           children: [
                             (0, a.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105&chain=mainnet",
                               target: "_blank",
                               className: "".concat(
                                 o().link,
@@ -4596,7 +4596,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              href: "https://dexscreener.com/ethereum/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                               target: "_blank",
                               className:
                                 "flex items-center justify-center transition-all hover:scale-105",
@@ -4639,7 +4639,7 @@
                               bodyClassName: "".concat(o().customToast),
                               progressClassName: "".concat(o().customToast),
                             }),
-                          text: "0xcomingsoon",
+                          text: "0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                           children: (0, a.jsxs)("button", {
                             className: "".concat(
                               o().boxGradientBorder,
@@ -4654,7 +4654,7 @@
                                     className: "  text-white ",
                                     children: "CA:",
                                   }),
-                                  "\xa00xcomingsoon",
+                                  "\xa00x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                                 ],
                               }),
                               (0, a.jsx)(r.C3L, { color: "#459CD6" }),
@@ -4663,7 +4663,7 @@
                                 children: "100,000,000 (100 MN)",
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://etherscan.io/token/0xcomingsoon",
+                                href: "https://etherscan.io/token/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                                 target: "blank",
                                 children: (0, a.jsxs)("span", {
                                   className: "".concat(
@@ -4695,7 +4695,7 @@
                           className: "grid grid-cols-4 gap-4 p-1",
                           children: [
                             (0, a.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105&chain=mainnet",
                               target: "_blank",
                               className:
                                 "flex items-center justify-center transition-all hover:scale-105",
@@ -4714,7 +4714,7 @@
                               }),
                             }),
                             (0, a.jsx)("a", {
-                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              href: "https://dexscreener.com/ethereum/0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105",
                               target: "_blank",
                               className:
                                 "flex items-center justify-center transition-all hover:scale-105",
