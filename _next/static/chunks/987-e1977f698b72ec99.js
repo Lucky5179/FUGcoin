@@ -3375,7 +3375,7 @@
                   return [
                     "bytes32",
                     null == o
-                      ? "0x0a0E1E2A67b3d38e540Bb2BA5B3dA93314D8a105000000000000000000000000000000000000000000000000"
+                      ? "0xcomingsoon000000000000000000000000000000000000000000000000"
                       : i.keccak(this.encodeData(t, o, r, a)),
                   ];
                 if (void 0 === o)
